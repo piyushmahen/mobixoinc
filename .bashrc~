@@ -1,0 +1,5 @@
+export GMAIL_USERNAME="piyush1991@gmail.com"
+export GMAIL_PASSWORD="qweqasqaz"
+export MAILCHIMP_API_KEY="1b579a35cc738e909a507c2338773f71-us11"
+export MAILCHIMP_LIST_ID="MOBIXO"
+export _OWNER_EMAIL="piyush1991@gmail.com"
